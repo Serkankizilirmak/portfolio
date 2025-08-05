@@ -35,5 +35,15 @@ const resourcesData = {
             date: "2025",
             readTime: "60 min"
         },
+        {
+            title: "Deep Learning with Tabular Data: A Self-supervised Approach",
+            author: "",
+            source: "Arvix",
+            url: "https://arxiv.org/pdf/2401.15238",
+            description: "xxx",
+            tags: ["Mechanistic Interpretability"],
+            date: "2024",
+            readTime: "60 min"
+        },
     ]
 };
